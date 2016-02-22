@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SHUE DESIGN ASSOCIATES]]></title>
+        <description><![CDATA[SHUE DESIGN ASSOCIATES]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 22 Feb 2016 06:29:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Testing</p>]]></description>
+            <link>undefined593004fd-2f79-4f1f-af37-5c0258bc2d77/index.html</link>
+            <guid isPermaLink="false">593004fd-2f79-4f1f-af37-5c0258bc2d77</guid>
+            <pubDate>Mon, 22 Feb 2016 06:29:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
