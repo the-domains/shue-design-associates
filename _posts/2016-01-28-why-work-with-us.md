@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-22T06:31:48.351Z'
-dateModified: '2016-02-22T06:31:10.641Z'
+datePublished: '2016-02-22T06:32:26.894Z'
+dateModified: '2016-02-22T06:32:20.376Z'
 title: WHY WORK WITH US?
 author: []
 sourcePath: _posts/2016-01-28-why-work-with-us.md
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb7831a5-513d-46cd-b6d3-3fe33ca56c1a.png)
 
-SHUE Design Associates provides a higher level of service than you can typically expect from general contractors or even some other design firms.  We act primarily as the your advocate throughout the design and construction of your project by locating your structure in the most advantageous position on the site and accurately translating your requirements into house plans, elevations, and details.  Shue Design Associates is sensitive to land conservation issues and is familiar with applicable building codes and zoning regulations.
+ShueDesign Associates provides a higher level of service than you can typically expect from general contractors or even some other design firms.  We act primarily as the your advocate throughout the design and construction of your project by locating your structure in the most advantageous position on the site and accurately translating your requirements into house plans, elevations, and details.  Shue Design Associates is sensitive to land conservation issues and is familiar with applicable building codes and zoning regulations.
 
 Shue Design Associates can also furnish a complete set of drawings and specify the materials going into the structure in such detail as to allow several contractors to submit competitive bids on the project.  As your agent during the construction phase of the project, we can help you evaluate the bids received and assist you in selecting a contractor.
 
