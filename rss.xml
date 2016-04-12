@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SHUE DESIGN ASSOCIATES]]></title>
         <description><![CDATA[SHUE DESIGN ASSOCIATES]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://sobrunsco.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 06:29:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 17:01:12 GMT</lastBuildDate>
+        <atom:link href="http://sobrunsco.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testing</p>]]></description>
-            <link>undefined593004fd-2f79-4f1f-af37-5c0258bc2d77/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa279e38-3ff6-49fa-a376-cc382c43e4b6.jpg">]]></description>
+            <link>http://sobrunsco.com/593004fd-2f79-4f1f-af37-5c0258bc2d77/index.html</link>
             <guid isPermaLink="false">593004fd-2f79-4f1f-af37-5c0258bc2d77</guid>
-            <pubDate>Mon, 22 Feb 2016 06:29:20 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 17:00:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
